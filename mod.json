@@ -1,0 +1,8 @@
+{
+"name":"haxor-poc",
+"displayName":"PoC of hax[DISABLE]",
+"description":"if you do not want anything to run on your device, disable this mod",
+"minGameVersion":136,
+"version":"0",
+"hidden":true
+}
